@@ -27,3 +27,20 @@ auth-api/                   → Root Proyek.
 ├─ .env                     → Environment variable.
 ├─ package.json             → Project Manifest.
 ```
+
+# Environment
+```
+# POSTGRES                  → Production
+PGHOST
+PGUSER
+PGDATABASE
+PGPASSWORD
+PGPORT
+
+# POSTGRES TEST             → Development
+PGHOST_TEST         
+PGUSER_TEST
+PGDATABASE_TEST
+PGPASSWORD_TEST
+PGPORT_TEST
+```
