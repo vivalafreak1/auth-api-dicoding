@@ -1,4 +1,4 @@
-/* instanbul ignore file */
+/* istanbul ignore file */
 /* eslint linebreak-style: ["error", "windows"] */
 
 const { Pool } = require('pg');
