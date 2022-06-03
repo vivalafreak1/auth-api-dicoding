@@ -30,6 +30,10 @@ auth-api/                   → Root Proyek.
 
 # Environment
 ```
+# HTTP Server
+HOST
+PORT
+
 # POSTGRES                  → Production
 PGHOST
 PGUSER
